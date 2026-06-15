@@ -1,4 +1,8 @@
-[Linkedin](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shauryasri14)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shauryasri14@gmail.com)
 
 <!--
 **shauryasri14/shauryasri14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
