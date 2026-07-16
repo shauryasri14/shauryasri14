@@ -7,7 +7,7 @@
 
 </td>
 <td border="0">
-<img src="https://media.giphy.com/media/xUOxf3fCB1RQhMHDoI/giphy.gif" width="90"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV0N2lyYmswNDAxdnFuaHF6c2JkcW0xZm4wODNmM3JscDFud2YyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dDnsqZQDEOSlHWAgfO/giphy.gif" width="90"/>
 </td>
 </tr>
 </table>
