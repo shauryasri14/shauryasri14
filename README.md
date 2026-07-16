@@ -1,95 +1,106 @@
 <div align="center">
+<table border="0">
+<tr>
+<td border="0" valign="middle">
+
+### heya, this is shaurya! 🪐
+
+</td>
+<td border="0">
+<img src="https://media.giphy.com/media/xUOxf3fCB1RQhMHDoI/giphy.gif" width="90"/>
+</td>
+</tr>
+</table>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0B5&center=true&vCenter=true&width=650&lines=cd+%2Fhome%2Fshaurya;python3+-c+%22import+curiosity%22;git+commit+-m+%22still+figuring+it+out%22;Error%3A+telescope+not+found)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+**Math &nbsp;|&nbsp; Code &nbsp;|&nbsp; Cosmos**
+
+</div>
+
+```yaml
+name: Shaurya Srivastava
+role: Mathematics & Computing Student
+focus: Algorithms, AI x Math, quiet obsession with astronomy
+languages: python, c, c++
+data & ml: pandas, numpy, jupyter
+tools: git, github, linux, vscode
+exploring: quantitative finance, astrodynamics, ML fundamentals
+philosophy: "academics gave me the structure, curiosity does the rest"
+```
 
 ---
 
-Exploring the world through code, mathematics, data, and the mysteries of the universe.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:shauryasri14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/shauryasri14)
+[![Email](https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00F0B5)](mailto:shauryasri14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=A371F7)](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=FF00C8)](https://github.com/shauryasri14)
 
 </div>
 
 ---
 
-## A little about me
+<div align="center">
 
-Hey, I'm Shaurya 👋
+**// about me, briefly**
 
-Mathematics & Computing student who likes figuring things out - whether it's a tricky algorithm, a stubborn bug, or just *why* something works the way it does.
+</div>
 
-Academics gave me the structure. Curiosity does the rest.
+<table border="0">
+<tr>
+<td width="60%" valign="top">
 
-What I'm into
-- **Algorithms & Data Structures** - where rigorous thinking meets real problems
-- **AI & Math-Computing intersections** - the areas I find myself going down rabbit holes in
-- **Astronomy** - not as a field, just as a reminder that most questions are still open
+Somewhere between a proof and a bug, I usually find the thing that's actually interesting.
 
-Currently building on my foundations and looking for projects and people to learn alongside.
+I like problems that don't resolve on the first pass - a stubborn algorithm, a dataset that lies to you, a network that won't discover its peers. Math taught me to sit with that discomfort instead of rushing past it.
 
----
-*"We've barely scratched the surface."*
+When I'm not doing that, I'm reading about things I can't touch: exoplanets, mission trajectories, the kind of astronomy that has no immediate use, only reminds me most questions are still open.
 
----
+</td>
+<td width="40%" valign="top">
 
-### When I'm not debugging, you'll probably find me
+```
+> whoami
+figuring things out,
+one layer down at a time
 
-- 🌌 Reading about astronomy and astrophysics
-- 📈 Exploring quantitative finance concepts
-- 🤖 Learning AI and machine learning
-- 🧩 Solving programming problems
-- 🚀 Going down rabbit holes about space missions and technology
+> current_obsession
+where AI and math
+actually meet
 
----
+> also_running
+a quiet background process
+called "astronomy"
+```
 
-# ✦ Tech & Tools
-
-### Languages I Use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Data & Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shauryasri14&show_icons=true)
+**// signal check**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasri14&layout=compact)
+<img src="https://github-stats-extended.vercel.app/api?username=shauryasri14&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shauryasri14&layout=compact&theme=radical&hide_border=true" height="165"/>
 
----
+<img src="https://streak-stats.demolab.com/?user=shauryasri14&theme=radical&hide_border=true"/>
 
-# 🎯 Current Focus
-
-- Data Structures & Algorithms
-- Machine Learning Fundamentals
-- Scientific Computing
-- Quantitative Finance
-- Space Technology & Astrodynamics
+</div>
 
 ---
 
-# 📫 Reach Me
+<div align="center">
 
-- 📧 Email: [shauryasri14@gmail.com](mailto:shauryasri14@gmail.com)
-- 💼 LinkedIn: [Shaurya Srivastava](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/)
-- 💻 GitHub: [shauryasri14](https://github.com/shauryasri14)
+*"Somewhere, something incredible is waiting to be known."* — Carl Sagan
 
----
+<img src="https://komarev.com/ghpvc/?username=shauryasri14&label=signal+received&color=A371F7&style=flat-square"/>
 
-> “Somewhere, something incredible is waiting to be known.”
->
-> — Carl Sagan
+</div>
