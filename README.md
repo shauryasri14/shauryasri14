@@ -1,106 +1,81 @@
-<div align="center">
-<table border="0">
-<tr>
-<td border="0" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="shaurya srivastava: software that runs on your machine" width="100%">
+</picture>
 
-### heya, this is shaurya! 🪐
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-21262d?style=flat-square&logo=linkedin&logoColor=d4f53c"><img src="https://img.shields.io/badge/linkedin-f6f8fa?style=flat-square&logo=linkedin&logoColor=1f2328" alt="linkedin"></picture></a>
+  <a href="mailto:shauryasri14@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/email-21262d?style=flat-square&logo=gmail&logoColor=d4f53c"><img src="https://img.shields.io/badge/email-f6f8fa?style=flat-square&logo=gmail&logoColor=1f2328" alt="email"></picture></a>
+  <a href="https://github.com/shauryasri14?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/all_repositories-21262d?style=flat-square&logo=github&logoColor=d4f53c"><img src="https://img.shields.io/badge/all_repositories-f6f8fa?style=flat-square&logo=github&logoColor=1f2328" alt="all repositories"></picture></a>
+</p>
 
-</td>
-<td border="0">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV0N2lyYmswNDAxdnFuaHF6c2JkcW0xZm4wODNmM3JscDFud2YyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dDnsqZQDEOSlHWAgfO/giphy.gif" width="90"/>
-</td>
-</tr>
-</table>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0B5&center=true&vCenter=true&width=650&lines=cd+%2Fhome%2Fshaurya;python3+-c+%22import+curiosity%22;git+commit+-m+%22still+figuring+it+out%22;Error%3A+telescope+not+found)](https://git.io/typing-svg)
+## 01 &nbsp;·&nbsp; who i am
 
-</div>
+I'm a **Mathematics & Computing** student in India who builds **local-first software**: tools that run on your own machine, work offline, and keep your data where it is.
 
-<div align="center">
+Most of my recent work pairs a **small local language model with plain, testable code**. Anything that has to be correct (a date, a chess evaluation, a merge status) comes from deterministic code. The model only puts it into words.
 
-**Math &nbsp;|&nbsp; Code &nbsp;|&nbsp; Cosmos**
+When I'm not writing code, I'm usually reading about astronomy. That's where my interest in **astrodynamics** and the maths behind orbits comes from.
 
-</div>
+| | |
+|:--|:--|
+| **focus** | local AI tooling · retrieval · data pipelines |
+| **exploring** | quantitative finance · astrodynamics · ML fundamentals |
+| **based in** | India |
+| **reach me** | [LinkedIn](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/) · [shauryasri14@gmail.com](mailto:shauryasri14@gmail.com) |
 
-```yaml
-name: Shaurya Srivastava
-role: Mathematics & Computing Student
-focus: Algorithms, AI x Math, quiet obsession with astronomy
-languages: python, c, c++
-data & ml: pandas, numpy, jupyter
-tools: git, github, linux, vscode
-exploring: quantitative finance, astrodynamics, ML fundamentals
-philosophy: "academics gave me the structure, curiosity does the rest"
-```
+<br>
 
----
+## 02 &nbsp;·&nbsp; the work, charted
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chart-dark.svg">
+  <img src="assets/chart-light.svg" alt="star chart of projects, grouped into constellations by theme" width="100%">
+</picture>
 
-[![Email](https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00F0B5)](mailto:shauryasri14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=A371F7)](https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=FF00C8)](https://github.com/shauryasri14)
+| constellation | project | in one line |
+|:--|:--|:--|
+| **code decides, model explains** | [Chess-Move-Analyzer](https://github.com/shauryasri14/Chess-Move-Analyzer) | Offline chess game review: Stockfish grades, a local LLM explains |
+| | [Lecture2notes](https://github.com/shauryasri14/Lecture2notes) | Lecture recording → notes, revision questions, verified deadlines |
+| | [gst-sorter](https://github.com/shauryasri14/gst-sorter) | OCR + validation for Indian GST invoices, exported to Excel/CSV |
+| | [git-graveyard](https://github.com/shauryasri14/git-graveyard) | Abandoned branches and dead TODOs, with LLM-written epitaphs |
+| | [StrideWise](https://github.com/shauryasri14/StrideWise) | Walking/running routes scored on shade, traffic, air quality |
+| **search & retrieval** | [RAGLite](https://github.com/shauryasri14/RAGLite) | Minimal RAG pipeline with Hit@5, MRR and refusal-accuracy evals |
+| | [LANShare](https://github.com/shauryasri14/LANShare) | LAN file sharing with in-browser semantic search |
+| **browser** | [TokenTrail](https://github.com/shauryasri14/TokenTrail) | Tracks token usage in AI chats and saves them before you run out |
+| **data** | [AQI_Prediction](https://github.com/shauryasri14/AQI_Prediction) | Random Forest forecasting Delhi's AQI from hourly pollutant data |
+| **from scratch** | [webserver-using-python](https://github.com/shauryasri14/webserver-using-python) | Multithreaded HTTP server on raw sockets |
+| | [personal-finance_tracker](https://github.com/shauryasri14/personal-finance_tracker) | Personal finance tracker in C |
 
-</div>
+<br>
 
----
+## 03 &nbsp;·&nbsp; how i build
 
-<div align="center">
+> **01 — Code decides, the model explains.**<br>
+> Anything that has to be correct comes from deterministic code. The LLM handles the wording.
 
-**// about me, briefly**
+> **02 — Offline by default.**<br>
+> If something can run on the user's machine, it should.
 
-</div>
+> **03 — Small and finished beats big and planned.**<br>
+> Ship a version that works, then improve it.
 
-<table border="0">
-<tr>
-<td width="60%" valign="top">
+<br>
 
-Somewhere between a proof and a bug, I usually find the thing that's actually interesting.
+## 04 &nbsp;·&nbsp; toolbox
 
-I like problems that don't resolve on the first pass - a stubborn algorithm, a dataset that lies to you, a network that won't discover its peers. Math taught me to sit with that discomfort instead of rushing past it.
+| | |
+|:--|:--|
+| **languages** | Python · C · C++ · JavaScript |
+| **data & ml** | pandas · NumPy · scikit-learn · FAISS · sentence-transformers |
+| **local ai** | Ollama · faster-whisper · transformers.js |
+| **everything else** | Git · Linux · FastAPI · browser extensions |
 
-When I'm not doing that, I'm reading about things I can't touch: exoplanets, mission trajectories, the kind of astronomy that has no immediate use, only reminds me most questions are still open.
+<br>
 
-</td>
-<td width="40%" valign="top">
-
-```
-> whoami
-figuring things out,
-one layer down at a time
-
-> current_obsession
-where AI and math
-actually meet
-
-> also_running
-a quiet background process
-called "astronomy"
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-**// signal check**
-
-<img src="https://github-stats-extended.vercel.app/api?username=shauryasri14&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shauryasri14&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=shauryasri14&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Somewhere, something incredible is waiting to be known."* — Carl Sagan
-
-<img src="https://komarev.com/ghpvc/?username=shauryasri14&label=signal+received&color=A371F7&style=flat-square"/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" alt="clear skies" width="100%">
+</picture>
