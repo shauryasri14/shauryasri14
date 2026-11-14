@@ -13,11 +13,11 @@
 
 ## 01 &nbsp;·&nbsp; who i am
 
-I'm a **Mathematics & Computing** student in India who builds **local-first software**: tools that run on your own machine, work offline, and keep your data where it is.
+Mathematics & Computing student from India. I like understanding why things work, whether it's a tricky algorithm or a bug that won't go away.
 
-Most of my recent work pairs a **small local language model with plain, testable code**. Anything that has to be correct (a date, a chess evaluation, a merge status) comes from deterministic code. The model only puts it into words.
+I work where math meets code: algorithms, data structures, and AI. I'm looking for real projects to build and people to build them with.
 
-When I'm not writing code, I'm usually reading about astronomy. That's where my interest in **astrodynamics** and the maths behind orbits comes from.
+Outside code, I read about astronomy. It's a reminder that most big questions are still open, and that's fine by me.
 
 | | |
 |:--|:--|
