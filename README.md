@@ -4,8 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-srivastava-140505cxvadsv/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-21262d?style=flat-square&logo=linkedin&logoColor=d4f53c"><img src="https://img.shields.io/badge/linkedin-f6f8fa?style=flat-square&logo=linkedin&logoColor=1f2328" alt="linkedin"></picture></a>
-  <a href="mailto:shauryasri14@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/email-21262d?style=flat-square&logo=gmail&logoColor=d4f53c"><img src="https://img.shields.io/badge/email-f6f8fa?style=flat-square&logo=gmail&logoColor=1f2328" alt="email"></picture></a>
+   <a href="https://www.linkedin.com/in/shauryasriv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-linkedin-dark.svg"><img src="assets/badge-linkedin-light.svg" alt="linkedin"></picture></a><a href="mailto:shauryasri14@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/email-21262d?style=flat-square&logo=gmail&logoColor=d4f53c"><img src="https://img.shields.io/badge/email-f6f8fa?style=flat-square&logo=gmail&logoColor=1f2328" alt="email"></picture></a>
   <a href="https://github.com/shauryasri14?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/all_repositories-21262d?style=flat-square&logo=github&logoColor=d4f53c"><img src="https://img.shields.io/badge/all_repositories-f6f8fa?style=flat-square&logo=github&logoColor=1f2328" alt="all repositories"></picture></a>
 </p>
 
